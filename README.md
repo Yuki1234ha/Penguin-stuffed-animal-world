@@ -16,5 +16,5 @@ Quest上で遊べるペンギンのぬいぐるみを眺められるワールド
 また、テーブル上の宝石やコーラ缶は、投げるとペンギンのぬいぐるみに変化します。（ペンギンハイウェイのオマージュ）。
 
 ## 内容物
-apkファイル及び、UnityPackageファイルが含まれています。
+apkファイルが含まれています。
 apkファイルはquestにアップロードすることで、VRで遊ぶ事ができます。(https://vracademy.jp/development/install_sidequest/)
